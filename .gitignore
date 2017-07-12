@@ -1,8 +1,1 @@
-.idea
-.vscode
-.DS_Store
-*.lock
-*.log
-out
-dist
-node_modules
+node_modules/
